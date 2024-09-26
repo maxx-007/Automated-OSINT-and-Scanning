@@ -23,9 +23,11 @@ Prerequisites:
 # Usage:
 
     Clone the repository and execute the scripts as needed to conduct OSINT and scanning tasks on your designated targets.
+# Installation Guide
+  All the process regarding installation and configuration of the scripts is mentioned in the attached respective pdf files.
 
 # Disclaimer:
 
-# These tools are intended for educational purposes and should only be used in authorized environments with explicit permission from network owners. Unauthorized use is illegal and unethical.
+ These tools are intended for educational purposes and should only be used in authorized environments with explicit permission from network owners. Unauthorized use is illegal and unethical.
 
 Feel free to modify any part of this description to better fit your project's specific details or your personal style!
